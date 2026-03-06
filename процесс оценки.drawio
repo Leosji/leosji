@@ -1,15 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36" version="29.6.0">
   <diagram name="Страница-1" id="H17SB-HQYxX196qq2zfZ">
-    <mxGraphModel dx="2015" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aijWpfVzBunnzDGfWXh_-4" edge="1" parent="1" source="aijWpfVzBunnzDGfWXh_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aijWpfVzBunnzDGfWXh_-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aijWpfVzBunnzDGfWXh_-2" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fontSize=11;" value="Администратор оценки запускает процесс" vertex="1">
-          <mxGeometry height="50" width="50" x="20" y="260" as="geometry" />
-        </mxCell>
         <mxCell id="aijWpfVzBunnzDGfWXh_-6" edge="1" parent="1" source="aijWpfVzBunnzDGfWXh_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aijWpfVzBunnzDGfWXh_-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -21,7 +15,7 @@
             <mxPoint x="700" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aijWpfVzBunnzDGfWXh_-5" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontSize=11;" value="Система загружает данные из SAP HCM" vertex="1">
+        <mxCell id="aijWpfVzBunnzDGfWXh_-5" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontSize=11;" value="СУТ загружает данные из SAP HCM" vertex="1">
           <mxGeometry height="80" width="120" x="500" y="245" as="geometry" />
         </mxCell>
         <mxCell id="aijWpfVzBunnzDGfWXh_-9" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontSize=11;" value="Персональные данные&lt;div&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Данные&lt;br&gt;для профкомпетенций&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;Данные&lt;br&gt;о взысканиях&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -78,7 +72,7 @@
           <mxGeometry height="80" width="120" x="294" y="560" as="geometry" />
         </mxCell>
         <mxCell id="aijWpfVzBunnzDGfWXh_-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p class=&quot;MsoNormal&quot;&gt;Этап 1: Подготовка и инициализация&lt;/p&gt;" vertex="1">
-          <mxGeometry height="30" width="280" x="200" y="210" as="geometry" />
+          <mxGeometry height="30" width="280" x="270" y="210" as="geometry" />
         </mxCell>
         <mxCell id="aijWpfVzBunnzDGfWXh_-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;Этап 2: Самооценка сотрудника&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="430" x="180" y="360" as="geometry" />
@@ -86,12 +80,12 @@
         <mxCell id="aijWpfVzBunnzDGfWXh_-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p class=&quot;MsoNormal&quot;&gt;Этап 3: Оценка руководителем&lt;/p&gt;" vertex="1">
           <mxGeometry height="30" width="250" x="270" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="aijWpfVzBunnzDGfWXh_-41" edge="1" parent="1" source="aijWpfVzBunnzDGfWXh_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="aijWpfVzBunnzDGfWXh_-16">
+        <mxCell id="aijWpfVzBunnzDGfWXh_-41" edge="1" parent="1" source="aijWpfVzBunnzDGfWXh_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="TjLORrNSUlSI-WQI0YKQ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="770" y="350" />
-              <mxPoint x="274" y="350" />
-              <mxPoint x="274" y="440" />
+              <mxPoint x="60" y="350" />
+              <mxPoint x="60" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -386,6 +380,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aijWpfVzBunnzDGfWXh_-126" edge="1" parent="1" source="aijWpfVzBunnzDGfWXh_-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="aijWpfVzBunnzDGfWXh_-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjLORrNSUlSI-WQI0YKQ-1" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;whiteSpace=wrap;fontSize=11;" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Администратор оценки&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;запускает процесс&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;оценки&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="100" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="TjLORrNSUlSI-WQI0YKQ-2" edge="1" parent="1" source="TjLORrNSUlSI-WQI0YKQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="aijWpfVzBunnzDGfWXh_-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
