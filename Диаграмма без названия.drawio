@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 YaBrowser/26.3.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Страница-1" id="sj09yh6-0xMOm4NpC2li">
-    <mxGraphModel dx="2610" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4392" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,7 +226,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5frwwI607DgZDC0FAeL_-18" parent="5frwwI607DgZDC0FAeL_-2" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Прием запроса на бронирование&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="280" y="54" as="geometry" />
+          <mxGeometry height="80" width="120" x="280" y="41.5" as="geometry" />
         </mxCell>
         <mxCell id="5frwwI607DgZDC0FAeL_-3" parent="5frwwI607DgZDC0FAeL_-1" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1">
           <mxGeometry height="163" width="650" x="710" as="geometry">
@@ -242,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5frwwI607DgZDC0FAeL_-28" parent="5frwwI607DgZDC0FAeL_-4" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Получение документов от оператора" vertex="1">
-          <mxGeometry height="80" width="120" x="50" y="54" as="geometry" />
+          <mxGeometry height="80" width="120" x="50" y="44" as="geometry" />
         </mxCell>
         <mxCell id="Bs1dC-T-J07E-e1NX1P4-12" edge="1" parent="3pwWN8p0Q66ToYKYU0Uj-1" source="Bs1dC-T-J07E-e1NX1P4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Bs1dC-T-J07E-e1NX1P4-11">
           <mxGeometry relative="1" as="geometry">
@@ -318,7 +318,8 @@
         <mxCell id="5frwwI607DgZDC0FAeL_-19" edge="1" parent="3pwWN8p0Q66ToYKYU0Uj-1" source="3pwWN8p0Q66ToYKYU0Uj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5frwwI607DgZDC0FAeL_-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="255" y="1010" />
+              <mxPoint x="255" y="1000" />
+              <mxPoint x="320" y="1000" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -340,7 +341,7 @@
         <mxCell id="5frwwI607DgZDC0FAeL_-29" edge="1" parent="3pwWN8p0Q66ToYKYU0Uj-1" source="5frwwI607DgZDC0FAeL_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Bs1dC-T-J07E-e1NX1P4-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1570" y="1010" />
+              <mxPoint x="1570" y="1000" />
               <mxPoint x="1570" y="135" />
             </Array>
           </mxGeometry>
@@ -366,7 +367,7 @@
           <mxGeometry height="60" width="120" x="-130" y="240" as="geometry" />
         </mxCell>
         <mxCell id="5frwwI607DgZDC0FAeL_-21" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Подтверждение бронирования&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="590" y="1290" as="geometry" />
+          <mxGeometry height="80" width="120" x="590" y="1277.5" as="geometry" />
         </mxCell>
         <mxCell id="5frwwI607DgZDC0FAeL_-22" edge="1" parent="1" source="5frwwI607DgZDC0FAeL_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5frwwI607DgZDC0FAeL_-21">
           <mxGeometry relative="1" as="geometry" />
