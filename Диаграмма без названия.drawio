@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 YaBrowser/26.3.0.0 Safari/537.36" version="29.6.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 YaBrowser/26.3.0.0 Safari/537.36" version="29.6.6">
   <diagram name="Страница-1" id="sj09yh6-0xMOm4NpC2li">
-    <mxGraphModel dx="2505" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2610" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -473,9 +473,6 @@
             <mxRectangle height="170" width="890" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5frwwI607DgZDC0FAeL_-189" parent="5frwwI607DgZDC0FAeL_-143" style="rounded=1;whiteSpace=wrap;html=1;" value="Проверка наличия подтверждения от клиента" vertex="1">
-          <mxGeometry height="60" width="120" x="70" y="94" as="geometry" />
-        </mxCell>
         <mxCell id="5frwwI607DgZDC0FAeL_-238" parent="5frwwI607DgZDC0FAeL_-143" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" value="Клиент хочет вернуть тур" vertex="1">
           <mxGeometry height="50" width="50" x="415" y="98" as="geometry" />
         </mxCell>
@@ -516,15 +513,6 @@
         </mxCell>
         <mxCell id="5frwwI607DgZDC0FAeL_-159" parent="5frwwI607DgZDC0FAeL_-138" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Приглашение клиента в офис&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="47" as="geometry" />
-        </mxCell>
-        <mxCell id="5frwwI607DgZDC0FAeL_-166" edge="1" parent="5frwwI607DgZDC0FAeL_-138" source="5frwwI607DgZDC0FAeL_-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5frwwI607DgZDC0FAeL_-164">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5frwwI607DgZDC0FAeL_-162" parent="5frwwI607DgZDC0FAeL_-138" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Личная встреча&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="240" y="-33" as="geometry" />
-        </mxCell>
-        <mxCell id="5frwwI607DgZDC0FAeL_-163" edge="1" parent="5frwwI607DgZDC0FAeL_-138" source="5frwwI607DgZDC0FAeL_-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5frwwI607DgZDC0FAeL_-162" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5frwwI607DgZDC0FAeL_-164" parent="5frwwI607DgZDC0FAeL_-138" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Озвучивание ключевой информации&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="410" y="47" as="geometry" />
@@ -652,14 +640,6 @@
         <mxCell id="5frwwI607DgZDC0FAeL_-152" edge="1" parent="5frwwI607DgZDC0FAeL_-130" source="5frwwI607DgZDC0FAeL_-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5frwwI607DgZDC0FAeL_-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5frwwI607DgZDC0FAeL_-191" edge="1" parent="5frwwI607DgZDC0FAeL_-130" source="5frwwI607DgZDC0FAeL_-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5frwwI607DgZDC0FAeL_-189">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2340" y="287" />
-              <mxPoint x="2340" y="164" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5frwwI607DgZDC0FAeL_-205" edge="1" parent="5frwwI607DgZDC0FAeL_-130" source="5frwwI607DgZDC0FAeL_-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5frwwI607DgZDC0FAeL_-204">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2810" y="204" as="sourcePoint" />
@@ -701,14 +681,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5frwwI607DgZDC0FAeL_-190" edge="1" parent="1" source="5frwwI607DgZDC0FAeL_-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5frwwI607DgZDC0FAeL_-189">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5frwwI607DgZDC0FAeL_-190" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5frwwI607DgZDC0FAeL_-189">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2350" y="1990.0476190476188" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="5frwwI607DgZDC0FAeL_-187" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Фиксация подтверждения в CRM&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="2230" y="1960" as="geometry" />
-        </mxCell>
-        <mxCell id="5frwwI607DgZDC0FAeL_-188" edge="1" parent="1" source="5frwwI607DgZDC0FAeL_-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5frwwI607DgZDC0FAeL_-187">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5frwwI607DgZDC0FAeL_-188" edge="1" parent="1" source="5frwwI607DgZDC0FAeL_-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5frwwI607DgZDC0FAeL_-189">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2450" y="1990" />
+              <mxPoint x="2450" y="1860" />
+            </Array>
+            <mxPoint x="2230" y="1990" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5frwwI607DgZDC0FAeL_-193" edge="1" parent="1" source="5frwwI607DgZDC0FAeL_-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5frwwI607DgZDC0FAeL_-192" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -800,6 +785,26 @@
           <mxGeometry relative="1" x="-0.76" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5frwwI607DgZDC0FAeL_-189" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Проверка наличия подтверждения от клиента" vertex="1">
+          <mxGeometry height="60" width="120" x="2550" y="1830" as="geometry" />
+        </mxCell>
+        <mxCell id="5frwwI607DgZDC0FAeL_-191" edge="1" parent="1" source="5frwwI607DgZDC0FAeL_-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5frwwI607DgZDC0FAeL_-189">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2450" y="1877" />
+              <mxPoint x="2450" y="1860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5frwwI607DgZDC0FAeL_-162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Личная встреча&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1790" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="5frwwI607DgZDC0FAeL_-166" edge="1" parent="1" source="5frwwI607DgZDC0FAeL_-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5frwwI607DgZDC0FAeL_-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5frwwI607DgZDC0FAeL_-163" edge="1" parent="1" source="5frwwI607DgZDC0FAeL_-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5frwwI607DgZDC0FAeL_-162" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
