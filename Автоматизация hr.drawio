@@ -28,8 +28,16 @@
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-115" parent="Vw6npUH5hD8gm3iSMcsk-4" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Перенос в прод" vertex="1">
           <mxGeometry height="80" width="120" x="2100" y="-40" as="geometry" />
         </mxCell>
+        <mxCell id="Vw6npUH5hD8gm3iSMcsk-130" edge="1" parent="Vw6npUH5hD8gm3iSMcsk-4" source="Vw6npUH5hD8gm3iSMcsk-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Vw6npUH5hD8gm3iSMcsk-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-123" parent="Vw6npUH5hD8gm3iSMcsk-4" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Передача на сопровождение" vertex="1">
           <mxGeometry height="80" width="120" x="2300" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw6npUH5hD8gm3iSMcsk-132" parent="Vw6npUH5hD8gm3iSMcsk-4" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Закрываем запрос в Jira&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="2520" y="-25" as="geometry" />
         </mxCell>
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-15" parent="Vw6npUH5hD8gm3iSMcsk-1" style="swimlane;html=1;startSize=20;horizontal=0;" value="Тестировщик" vertex="1">
           <mxGeometry height="120" width="2630" x="20" y="270" as="geometry" />
@@ -192,7 +200,7 @@
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Аналитика" vertex="1">
           <mxGeometry height="30" width="60" x="837" y="-540" as="geometry" />
         </mxCell>
-        <mxCell id="Vw6npUH5hD8gm3iSMcsk-107" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Разработка&lt;br&gt;(+Тестирование)" vertex="1">
+        <mxCell id="Vw6npUH5hD8gm3iSMcsk-107" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Разработка&lt;br&gt;(+Тестирование&lt;br&gt;+ Синхронизация)" vertex="1">
           <mxGeometry height="80" width="120" x="1420" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-108" edge="1" parent="1" source="Vw6npUH5hD8gm3iSMcsk-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="Vw6npUH5hD8gm3iSMcsk-107">
@@ -229,6 +237,12 @@
         </mxCell>
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=22;" value="Процесс Разработки" vertex="1">
           <mxGeometry height="90" width="160" x="-110" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw6npUH5hD8gm3iSMcsk-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="?Синхронизация теста и прода" vertex="1">
+          <mxGeometry height="50" width="500" x="1030" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Vw6npUH5hD8gm3iSMcsk-133" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Далее переход в техпод или в запрос на изменение&lt;/font&gt;" vertex="1">
+          <mxGeometry height="125" width="240" x="2560" y="-62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
