@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 YaBrowser/26.4.0.0 Safari/537.36" version="29.6.6">
   <diagram name="Страница-1" id="mkQAwjlP7Hh23-8m2JMc">
-    <mxGraphModel dx="2728" dy="2209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,7 +194,7 @@
           <mxGeometry height="260" width="510" x="40" y="-715" as="geometry" />
         </mxCell>
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=22;" value="Процесс Разработки" vertex="1">
-          <mxGeometry height="90" width="160" x="-110" y="-260" as="geometry" />
+          <mxGeometry height="90" width="160" x="-90" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="?Синхронизация теста и прода" vertex="1">
           <mxGeometry height="50" width="500" x="1030" y="620" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry height="30" width="70" x="-90" y="840" as="geometry" />
         </mxCell>
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-135" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;" value="Команда Автоматизации HR" vertex="1">
-          <mxGeometry height="350" width="2650" x="-100" y="1000" as="geometry" />
+          <mxGeometry height="350" width="2650" x="-70" y="910" as="geometry" />
         </mxCell>
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-136" parent="Vw6npUH5hD8gm3iSMcsk-135" style="swimlane;html=1;startSize=20;horizontal=0;" value="Аналитик" vertex="1">
           <mxGeometry height="350" width="2630" x="20" as="geometry" />
@@ -313,7 +313,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-160" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;" value="Внешние" vertex="1">
-          <mxGeometry height="270" width="2650" x="-100" y="1350" as="geometry" />
+          <mxGeometry height="270" width="2650" x="-70" y="1260" as="geometry" />
         </mxCell>
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-161" parent="Vw6npUH5hD8gm3iSMcsk-160" style="swimlane;html=1;startSize=20;horizontal=0;" value="Заказчик" vertex="1">
           <mxGeometry height="270" width="2630" x="20" as="geometry" />
@@ -434,8 +434,8 @@
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-264" edge="1" parent="1" source="Vw6npUH5hD8gm3iSMcsk-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="Vw6npUH5hD8gm3iSMcsk-238">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1395" y="1570" />
-              <mxPoint x="970" y="1570" />
+              <mxPoint x="1425" y="1480" />
+              <mxPoint x="1000" y="1480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -447,8 +447,8 @@
         <mxCell id="Vw6npUH5hD8gm3iSMcsk-257" edge="1" parent="1" source="Vw6npUH5hD8gm3iSMcsk-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" target="Vw6npUH5hD8gm3iSMcsk-238">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1805" y="1570" />
-              <mxPoint x="970" y="1570" />
+              <mxPoint x="1835" y="1480" />
+              <mxPoint x="1000" y="1480" />
             </Array>
           </mxGeometry>
         </mxCell>
